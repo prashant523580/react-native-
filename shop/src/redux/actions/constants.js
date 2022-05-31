@@ -1,0 +1,8 @@
+export const productConstant = {
+    "GET_ALL_PRODUCT_SUCCESS" : "GET_ALL_PRODUCT_SUCCESS",
+    "GET_PRODUCT_DETAILS_SUCCESS" : "GET_PRODUCT_DETAILS_SUCCESS"
+}
+
+export const categoryConstants = {
+    "GET_CATEGORY_SUCCESS" : "GET_CATEGORY_SUCCESS"
+}
